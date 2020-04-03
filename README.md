@@ -14,3 +14,4 @@ Homework 4:
 https://www.youtube.com/watch?v=6xLUZjAVWUs
 **task3: board publish number 1-19, nodered recieve value thru MQTT and will notify
 in Line every value divisible by 5
+              https://www.youtube.com/watch?v=6gg7H93zZGQ
